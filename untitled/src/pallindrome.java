@@ -27,7 +27,7 @@ public class pallindrome {
 }
 
 //2nd way
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String args[]) {
@@ -43,3 +43,4 @@ public class Palindrome {
             System.out.println("It's not a palindrome");
     }
 }
+*/
